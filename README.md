@@ -1,6 +1,6 @@
 # SwiftUI-Weather-App 🌡️ ☀️
 
-The SwiftUI Weather app, allow users get the current weather for a particular locatio and view a 5-day weather forecast for the selected place. Powered by World Weather Online API. Credits to those who have given the necessary knowledge required to acheive this goal.
+This App allows users get the current weather for a particular locatio and view a 5-day weather forecast for the selected place. Powered by World Weather Online API. Credits to those who have given the necessary knowledge required to acheive this goal.
  
 ### Screenshots
 
