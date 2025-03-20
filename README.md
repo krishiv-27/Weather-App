@@ -1,23 +1,12 @@
-# SwiftUI-Weather
+# SwiftUI-Weather-App
 
-The SwiftUI Weather app, allow users get the current weather for a particular locatio and view a 5-day weather forecast for the selected place. Powered by World Weather Online API.
+The SwiftUI Weather app, allow users get the current weather for a particular locatio and view a 5-day weather forecast for the selected place. Powered by World Weather Online API. Credits to those who have given the necessary knowledge required to acheive this goal.
  
 ### Screenshots
 
  <img src="./res/screen2.png" alt="screen2" height="600" />
 
-### Features
-* Add and remove a place.
-* Place list is persisted localy
-* Share the item details with others
-* Display the hourly weather forecast for each day
 
-## How to Work with the Source
-
-* In order to get Weather app to work, you need to put your [worldweatheronline](https://www.worldweatheronline.com) secret key on the AppConstants.swift file 
-```AppConstants.swift
-static let apiKey = "Your world weather online API key"
-```
 
 
 Libraries
