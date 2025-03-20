@@ -4,7 +4,7 @@ The SwiftUI Weather app, allow users get the current weather for a particular lo
  
 ### Screenshots
 
-<img src="./res/screen1.png" alt="screen1" height="600" /> <img src="./res/screen2.png" alt="screen2" height="600" />
+ <img src="./res/screen2.png" alt="screen2" height="600" />
 
 ### Features
 * Add and remove a place.
